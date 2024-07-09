@@ -1,3 +1,7 @@
+body{
+    background-color: rgb(21, 14, 54);
+    color: white;
+}
 
 .imagem{
 
@@ -10,18 +14,18 @@
 
     border-radius: 20px;
     border-style: groove;
-    background: rgb(47, 45, 45);
+    background: rgb(59, 49, 113);
     height: 350px;
     width: 450px;
-    padding: 20px;
+    padding: 30px;
 }
 
 .competencias{
     list-style: none;
     border-radius: 20px;
     border-style: groove;
-    background: rgb(47, 45, 45);
+    background: rgb(59, 49, 113);
     height: 350px;
     width: 450px;
-    padding: 20px;
+    padding: 30px;
 }
