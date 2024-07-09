@@ -11,6 +11,12 @@ body{
  
 }
 
+#imagem{
+
+    height: 250px;
+    width: 250px;
+}
+
 .competencias{
 
     padding: 20px;
