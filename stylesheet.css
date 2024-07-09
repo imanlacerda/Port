@@ -1,5 +1,5 @@
 body{
-    background-color: black;
+
     color: white;
     text-align: center;
     margin: auto;
@@ -11,6 +11,8 @@ body{
     height: 250px;
     width: 250px;
     border-radius: 100px;
+    background-color: rgb(28, 28, 106);
+   
 }
 
 .apresentacao{
@@ -23,12 +25,13 @@ body{
     width: 450px;
     padding: 30px;
     margin: auto;
-    margin-top: 250px;
+
 }
 
-#NOME{
+#nome{
 
-    color: red;
+    background-color: rgb(15, 15, 64);
+    margin: 0;
 }
 
 .competencias{
@@ -41,7 +44,7 @@ body{
     padding: 30px;
     margin: auto;
     float: right;
-    margin-top: 250px;
+
 }
 
 .contato{
@@ -54,7 +57,7 @@ body{
         width: 450px;
         padding: 30px;
         margin: auto;
-        margin-top: auto;
+
     
 }
 
@@ -66,4 +69,9 @@ a{
 ul{
 
     list-style: none;
+}
+
+.conteudo{
+
+    margin-top: 250px;
 }
