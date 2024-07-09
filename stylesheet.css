@@ -1,6 +1,9 @@
 body{
-    background-color: rgb(21, 14, 54);
+    background-color: black;
     color: white;
+    text-align: center;
+    margin: auto;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 .imagem{
@@ -12,12 +15,20 @@ body{
 
 .apresentacao{
 
+    float: left;
     border-radius: 20px;
     border-style: groove;
     background: rgb(59, 49, 113);
     height: 350px;
     width: 450px;
     padding: 30px;
+    margin: auto;
+    margin-top: 250px;
+}
+
+#NOME{
+
+    color: red;
 }
 
 .competencias{
@@ -28,4 +39,31 @@ body{
     height: 350px;
     width: 450px;
     padding: 30px;
+    margin: auto;
+    float: right;
+    margin-top: 250px;
+}
+
+.contato{
+
+        list-style: none;
+        border-radius: 20px;
+        border-style: groove;
+        background: rgb(59, 49, 113);
+        height: 350px;
+        width: 450px;
+        padding: 30px;
+        margin: auto;
+        margin-top: auto;
+    
+}
+
+a{
+
+    color: white;
+}
+
+ul{
+
+    list-style: none;
 }
