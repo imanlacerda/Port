@@ -1,6 +1,7 @@
 body{
     background: black;
     color: white;
+
 }
 
 .imagem{
@@ -8,4 +9,24 @@ body{
     height: 250px;
     width: 250px;
     border-radius: 100px;
+}
+
+.apresentacao{
+
+    border-radius: 20px;
+    border-style: groove;
+    background: rgb(47, 45, 45);
+    height: 350px;
+    width: 450px;
+    padding: 20px;
+}
+
+.competencias{
+    list-style: none;
+    border-radius: 20px;
+    border-style: groove;
+    background: rgb(47, 45, 45);
+    height: 350px;
+    width: 450px;
+    padding: 20px;
 }
